@@ -1,0 +1,21 @@
+.header-uas {
+  background-color: #002147;
+  background-image: url('/uas-header.png');
+  background-size: contain;       /*que rellene completamente */
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 220px;                 /*aumenta la altura */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 4px solid #f2c300;
+}
+
+
+.titulo-header {
+  color: white;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+.footer-uas {
+  background-color: #002147;
+  color: white;
+  font-size: 0.9rem;
+  border-top: 4px solid #f2c300;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.logo-footer {
+  height: 60px;
+  object-fit: contain;
+}
