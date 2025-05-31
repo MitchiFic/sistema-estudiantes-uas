@@ -30,28 +30,26 @@ Aplicación web CRUD desarrollada como proyecto final de la materia **Desarrollo
 ## Capturas de pantalla
 
 ### Vista principal del sistema
-
 ![Vista principal](screenshots/vista-principal.png)
 
 ### Registro de estudiante
-
 ![Formulario](screenshots/formulario-registro.png)
 
 ### Búsqueda activa
-
 ![Filtro](screenshots/filtro-busqueda.png)
 
 ### Edición de estudiante
-
 ![Edición](screenshots/editar-estudiante.png)
 
 ### Código: Frontend (`App.js`)
-
-![App.js](screenshots/codigo-app.png)
+![App.js Parte 1](screenshots/codigo-app-1.png)  
+![App.js Parte 2](screenshots/codigo-app-2.png)  
+![App.js Parte 3](screenshots/codigo-app-3.png)
 
 ### Código: Backend (`routes/estudiantes.js`)
+![Backend Parte 1](screenshots/codigo-backend-1.png)  
+![Backend Parte 2](screenshots/codigo-backend-2.png)
 
-![Rutas](screenshots/codigo-backend.png)
 
 ---
 
